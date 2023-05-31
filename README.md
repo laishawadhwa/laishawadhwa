@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![GitHub laishawadhwa](https://img.shields.io/github/followers/laishawadhwa?label=follow&style=social)](https://github.com/laishawadhwa)
+[![Linkedin: laishawadhwa](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/laishawadhwa/)
+[![Twitter: laishawadhwa](https://img.shields.io/twitter/follow/laishawadhwa?style=social)](https://twitter.com/laishawadhwa)
+[![Medium Badge](https://img.shields.io/badge/-@laisha%20wadhwa-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@laisha.w1_85978)](https://medium.com/@laisha.w1_85978)
+  
+
 <!--
 **laishawadhwa/laishawadhwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
